@@ -1,4 +1,4 @@
-package com.capgemini.shoppingapp.ui.activities
+package com.capgemini.CouponsApp.ui.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
